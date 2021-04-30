@@ -3,3 +3,4 @@ Pragyansh Chaturvedi : Looked up the documentations of libraries and datasheets 
 Ashutosh Singh : Familiarised myself and made basic circuit designs and 3D-models on TinkerCad. Also Looked at how to callibirate arduino based circuits.
 Harshit Gupta : Started learning about Arduino uno and different components and also how to use tincker cad to make different circuits using different components . Sensors I looked for MICS2714 and MQ131 .
 Chaitany Raghav : Used TinkerCad to get familiar with the input and output capabilities of the arduino and wrote basic code to light up LED in diffrent patterns.
+Tushar N Gupta : Saw the codes for working sensors in arduino modules. Familiarised with circuit making on Circuito.io.
